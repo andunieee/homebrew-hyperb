@@ -1,8 +1,8 @@
 cask "hyperb" do
-  version "1.5"
-  sha256 "ad021609646f11c9bc652a32e97af2d33a14bb6a073934cb4383f9b531edd017"
+  version "1.6"
+  sha256 "d1cb11c67a119fe778a7d3fe4d1716f378281acd79e7672de103913f4bba7534"
 
-  url "https://github.com/hypereffect/hyperb/releases/download/desktop-1-5/hyperb-desktop-macos-arm64-v#{version}.zip"
+  url "https://github.com/hypereffect/hyperb/releases/download/desktop-1-6/hyperb-desktop-macos-arm64-v#{version}.zip"
   name "hyperb"
   desc "A browser for hypereffect apps"
   homepage "https://github.com/hypereffect/hyperb"
